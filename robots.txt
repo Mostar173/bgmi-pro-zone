@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://mostar173.github.io/bgmi-pro-zone/sitemap.xml
